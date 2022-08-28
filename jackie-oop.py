@@ -25,3 +25,5 @@ evek_60_as = sum([sor.nyert for sor in lista if 1960 <= sor.ev <= 1969])
 print(f"""5.feladat:
        70-es évek: {evek_70_es} megnyert verseny
        60-es évek: {evek_60_as} megnyert verseny""")
+
+#6.feladat passz nem tom
